@@ -12,22 +12,22 @@ This fictional Power BI project for the frozen bakery industry visualizes KPIs s
 - Excel (Initial data structure design and preparing the fictional dataset)
 - GitHub (Version control and project documentation)
 ## 💡 Insights & Trend Storytelling
-*🌪 July Dip (Planned Production Challenge)*
+**🌪 July Dip (Planned Production Challenge)**
   - Production dropped sharply (**Attainment 63,4%**) and **Capacity Utilization fell to 79,25%**.  
   - Order fulfillment slowed (**75,1%**) and scrap rose (**5,5%**).  
   - **Temporary equipment downtime and minor workforce constraints caused the drop in production and efficiency**, explaining the July dip.
-*📈 August Recovery*
+**📈 August Recovery**
   - Production and order fulfillment rebounded (**87% attainment, 97,8% OFR**)  
   - Scrap reduced (**2,5%**) and capacity utilization rose (**107,8%**).  
   - Capacity values exceeding 100% are **explained by overtime or additional shifts** to meet production demand.
-*📊 Contribution to Total Product %*
+**📊 Contribution to Total Product %**
   - Month-by-month: May 0,17, Jun 0,40, Jul 0,29, Aug 0,14 (total = 100%)  
   - Correctly reflects **distribution of production volumes across months** and dynamically responds to filters.
-*💰 Cost & Efficiency Observations*
+**💰 Cost & Efficiency Observations**
   - Total Production Cost reflects **monthly activity and partial months** (May & Aug).  
   - Temmuz cost per unit likely higher due to low production and high scrap.  
   - August shows improved efficiency and normalized unit costs.
-*📦 Inventory & Turnover*
+**📦 Inventory & Turnover**
   - Inventory turnover slowed in July (low production, high scrap), leading to higher DIO.  
   - August shows stabilization and faster stock movement.
 ## 🧠 Why This Dashboard Matters
