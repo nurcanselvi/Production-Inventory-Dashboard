@@ -1,4 +1,4 @@
-# 📊Production & Inventory Performance Dashboard
+# 💼 Production & Inventory Performance Dashboard
 This fictional Power BI project for the frozen bakery industry visualizes KPIs such as production attainment, order fulfillment, scrap, cost, and capacity utilization across four product families and regions, delivering data-driven insights to support planning and decision-making in a realistic business context.
 
 ## 🔍 Key Features
