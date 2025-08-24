@@ -31,20 +31,26 @@ This fictional Power BI project for the frozen bakery industry visualizes KPIs s
     
 **💰 Cost & Efficiency Observations**
   - Total Production Cost reflects **monthly activity and partial months** (May & Aug).  
-  - Temmuz cost per unit is likely higher due to low production and high scrap.  
+  - July cost per unit is likely higher due to low production and high scrap.  
   - August shows improved efficiency and normalized unit costs.
     
 **📦 Inventory & Turnover**
   - Inventory turnover slowed in July (low production, high scrap), leading to higher DIO.  
   - August shows stabilization and faster stock movement.
     
-## 🧠 Why This Dashboard Matters
-- In real-world bakery operations, **small production hiccups** (like July’s scenario) can **cascade into order delays, higher scrap, and capacity underutilization**.  
-- This dashboard demonstrates **month-to-month variability**, giving decision-makers **insight into corrective actions**: resource reallocation, maintenance scheduling, or production planning adjustments.  
-- Supports **data-driven inventory & production management**, highlighting both efficiency gaps and recovery opportunities.
+## 🧩 Analytical Approach
+This dashboard goes beyond basic visualization — it focuses on **measuring the right metrics** to support accurate decision-making.  
+Key calculations, such as **service level**, **inventory turnover ratio**, and **production cycle adherence**, are designed to **reflect real supply chain dynamics** rather than relying on static data.
+
+By structuring measures with DAX, the dashboard ensures:
+- **Consistency**: All KPIs are calculated through reusable, centralized measures.
+- **Scalability**: New products or SKUs can be added without rewriting formulas.
+- **Actionable Insights**: Each visualization is powered by metrics that directly connect production, inventory, and demand.
+
+This approach allows stakeholders to **understand performance at a glance**, while also enabling deeper drill-down analysis when needed.
   
 ## 👤 About the Creator
 This dashboard was built as part of a **learning and portfolio project** to demonstrate **analytical thinking, Power BI modeling, and real-world business insight** in the context of frozen bakery production & inventory management.
 
 ## 🧠 Why This Dashboard Matters
-In real-world FMCG operations, even small fluctuations in production or temporary equipment downtime can quickly lead to **underfilled orders, higher scrap, or overutilized capacity**. This dashboard simulates such operational challenges and provides decision-makers with **insightful, actionable metrics** to optimize production scheduling, inventory management, and overall efficiency.
+In real-world FMCG operations, even small fluctuations in production or temporary equipment downtime can quickly lead to **underfilled orders, higher scrap, or overutilized capacity**. This dashboard demonstrates **month-to-month variability**, giving decision-makers **insight into corrective actions**: resource reallocation, maintenance scheduling, or production planning adjustments. Supports **data-driven inventory & production management**, highlighting both efficiency gaps and recovery opportunities.
