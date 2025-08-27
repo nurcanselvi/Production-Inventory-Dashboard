@@ -2,7 +2,7 @@
 This fictional Power BI project for the frozen bakery industry visualizes KPIs such as production attainment, order fulfillment, scrap, cost, and capacity utilization across four product families and regions, delivering data-driven insights to support planning and decision-making in a realistic business context.
 
 ## 🔍 Key Features
-**Production & Order Analytics:** Track **Production Attainment Rate**, **Order Fulfillment Rate**, and **Scrap Rate** to monitor operational performance.  
+- **Production & Order Analytics:** Track **Production Attainment Rate**, **Order Fulfillment Rate**, and **Scrap Rate** to monitor operational performance.  
 - **Cost & Capacity Insights:** Evaluate **Total Production Cost** and **Capacity Utilization Rate** to identify efficiency gaps.  
 - **Contribution Analysis:** Analyze each **product family’s contribution** to total production, adapting dynamically to filters like region, SKU, and month/year.  
 - **Trend Analysis:** Detect fluctuations in key KPIs and investigate root causes with month-by-month comparisons.
